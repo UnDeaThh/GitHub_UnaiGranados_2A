@@ -1,3 +1,7 @@
 Holaaaaaaaaaaaaaaaaaa que tal
 pues bien, aqui commiteando
+<<<<<<< HEAD
 me has merge conflicteado
+=======
+pues yo aqui, mergeando conflictos
+>>>>>>> a4bc10c2a4e6b9de892ed05ac08d391f311e7fa9
